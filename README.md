@@ -9,7 +9,7 @@ Herramienta simple para codificar y decodificar texto en Base64.
 2. Hacer ejecutable (opcional):
 
 ```bash
-git clone 
+git clone https://github.com/Bankroupt/Base64_code.git
 chmod +x base64.py
 ``` 
   
